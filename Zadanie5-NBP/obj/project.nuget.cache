@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TB0f07ZMoqw3Fm2miI220LLQ5ey2t0frQfUTtw8bPxhb2ZUwhaIq1imqzAWX12zN43sUtzEoIykm0Alfgv8qnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Zadanie5-NBP\\Zadanie5-NBP\\Zadanie5-NBP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
